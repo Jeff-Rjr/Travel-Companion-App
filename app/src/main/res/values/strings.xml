@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Travel_Companion_App</string>
+    <string name="travel_companion">Travel Companion</string>
+    <string name="currency_fuel_temperature">Currency - Fuel - Temperature</string>
+    <string name="conversion_category">Conversion Category</string>
+    <string name="from_unit">From unit:</string>
+    <string name="to_unit">To unit:</string>
+    <string name="enter_value">Enter value:</string>
+    <string name="ex_100">ex. 100</string>
+    <string name="convert">Convert</string>
+    <string name="result">Result</string>
+    <string name="resulting_value">-</string>
+</resources>
